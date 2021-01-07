@@ -1,0 +1,30 @@
+Variables: Una variable es un contenedor o espacio al que se le puede asignar un valor, como numeros, texto, etc.
+Y que luego se lo puede llamar para representar eso que le hemos asignado. Por ejemplo si escribimos:
+var numero = 2;
+Estamos asigando el valor 2 a la variable numero.
+
+Strings: Un string se usa para representar texto, son caracteres unidos entre si, se escriben entre comillas '' o "".
+Por ejemplo el string 'palabra' son los caracteres p, a, l ,a ,b ,r ,a unidos entre si como texto. Un espacio ' ' 
+también será un caracter de un string, asi como números y otros caracteres.
+
+Funciones: Son un bloque de codigo que se hacen para realizar alguna tarea, se les puede pasar argumentos, estos 
+argumentos son valores que la función va a usar para resolver la tarea, además las funciones pueden devolver 
+(return) un resultado. La mayor ventaja de las funciones es que una vez escritas se las puede llamar cuantas 
+veces sea necesario para traer ese resultado, esto ayuda a no repetir codigo.
+
+Declaraciones if: Son condiciones que se pueden dar para que una tarea de un resultado si cumple con la condición 
+que se le pasa, o que de otro resultado si es necesario. Por ejemplo puedo decir: SI Juan hace la tarea, ENTONCES 
+puede ver la televisión.
+
+Valores booleanos (true, false): Significan verdadero y falso, en JS se usan por ejemplo para la lógica de las 
+condiciones. Una declaración if solo se ejecuta si el resultado es true y no se ejecuta si es false. Se considera 
+false a la palabra clave false, null, NaN, Undefined, el número 0 y una string vacía ' ', y se considera true a 
+todo lo demás. Por ejemplo:
+function condicion() {
+    If (1 - 1) {
+        return true;
+    }
+    return false;
+}
+
+Esta función devolverá un false, porque no se da la condición if ya que 1 - 1 es igual a 0 y 0 es false. 
