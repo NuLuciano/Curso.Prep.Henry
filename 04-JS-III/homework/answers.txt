@@ -1,0 +1,4 @@
+Arrays: Son un tipo de dato que contien un conjunto de datos. Por ejemplo una lista de compras se puede pensar
+como un array que contiene varios articulos que se necesitan comprar. Los array se asignan a un variable y se 
+puede llamar a los datos por separado, asi como agregar o quitar mas datos y puede haber distintos tipos de datos
+en el mismo array ( como números, strings, bools).
