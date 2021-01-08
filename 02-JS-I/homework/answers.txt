@@ -18,7 +18,7 @@ puede ver la televisión.
 
 Valores booleanos (true, false): Significan verdadero y falso, en JS se usan por ejemplo para la lógica de las 
 condiciones. Una declaración if solo se ejecuta si el resultado es true y no se ejecuta si es false. Se considera 
-false a la palabra clave false, null, NaN, Undefined, el número 0 y una string vacía ' ', y se considera true a 
+false a la palabra clave false, null, NaN, Undefined, el número 0 y una string vacía '', y se considera true a 
 todo lo demás. Por ejemplo:
 function condicion() {
     If (1 - 1) {
