@@ -1,0 +1,15 @@
+Objetos: Son contenedores de datos, a diferencia de los arrays no se accede a los datos mediante un indice numérico.
+Para acceder a un valor de un objeto se debe usar la clave del mismo. Cada clave es unica, aunque varias claves
+pueden tener el mismo valor.
+
+Propiedades: Un objeto tiene propiedades asociadas a él. Las propiedades se pueden explicar como variables que 
+se estructuran con una clave y un valor (key:value). Se accede a una propiedad usando la clave.
+
+Métodos: Son funciones que estan guardades en un objeto. La clave será el nombre de la función y el valor será 
+la función propiamente dicha. 
+
+Bucles for__in: Se utiliza el for__in cuando se quiere iterar sobre las propiedades de un objeto.
+
+Notación de puntos vs notación de corchetes: Para llamar a un valor de un objeto se utiliza la notaciones de 
+puntos o de corchetes. La diferencia es que la notación de puntos es literal, es decir que si intentamos llamar 
+algo mediante una variable debemos usar la notacion de corchetes.
